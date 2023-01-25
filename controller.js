@@ -1,5 +1,5 @@
 const { BlobServiceClient } = require("@azure/storage-blob");
-const REACT_APP_STORAGESASTOKEN = "sp=racw&st=2022-12-01T06:52:42Z&se=2027-01-01T14:52:42Z&sv=2021-06-08&sr=c&sig=1vfB948LnuHaywMZpkhBsO7WFGmiOdoCErCEkELeC1U%3D"
+const REACT_APP_STORAGESASTOKEN ;
 const Doc = require("./doc.model");
 const fs = require('fs');
 
